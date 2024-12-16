@@ -30,7 +30,7 @@ OPEN Git Bash
 - Once the key and the repo are added, update the system again:
   - sudo apt update -y
 
-### 6.2 Install Jenkins on Ubuntu 24.04
+### 6.2 Install Jenkins on Ubuntu 
 - Now, install Jenkins:
   - sudo apt install jenkins -y
 - Start Jenkins:
@@ -38,7 +38,7 @@ OPEN Git Bash
 - Enable Jenkins to start on boot:
   - sudo systemctl enable jenkins
 - Check the Jenkins status:
-  - sudo systemctl status jenkins  # "Ctrl + Z" to exit the status screen
+  - sudo systemctl status jenkins  | "Ctrl + Z" to exit the status screen
 
 ## 7. Access Jenkins Web Interface
 - Go to your server's public DNS:
