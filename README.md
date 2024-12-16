@@ -3,7 +3,7 @@
 ## Description
 This guide walks you through the process of setting up Jenkins on an Ubuntu EC2 instance, including the installation of Java, Maven, and Jenkins itself. By following these steps, you'll be able to set up a Jenkins server that can automate builds and deployments for your projects. This setup is ideal for continuous integration (CI) and continuous delivery (CD) pipelines.
 
-## Create EC2 Ubuntu - Jenkins VM
+## 1. Create EC2 Ubuntu - Jenkins VM
 
 ## 2. Connect to Jenkins VM via SSH
 OPEN Git Bash
